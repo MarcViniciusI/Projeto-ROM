@@ -32,7 +32,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         jMenu2.add(MnItemSemanais);
 
         MnItemFarm.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_F, java.awt.event.InputEvent.CTRL_DOWN_MASK));
-        MnItemFarm.setText("Farm");
+        MnItemFarm.setText("Farm (Proximas Atualizações)");
         MnItemFarm.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 MnItemFarmActionPerformed(evt);
